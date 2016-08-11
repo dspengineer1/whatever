@@ -1,2 +1,6 @@
 one thing or another will make this file to change with time.
+<<<<<<< .merge_file_a00992
 this is the kind of thing that happens
+=======
+this is a change
+>>>>>>> .merge_file_a04848
